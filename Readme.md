@@ -58,6 +58,8 @@ $ make
 $ sudo make install
 ```
 
+<img width="1857" height="647" alt="image" src="https://github.com/user-attachments/assets/e703d41b-3aae-475f-abf3-d28099a1ca00" />
+
 
 #### <ins>**Iverilog**</ins>
 ```bash
@@ -65,9 +67,13 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 
+<img width="926" height="692" alt="image" src="https://github.com/user-attachments/assets/65ae1b25-4111-4c9e-8b13-76859f5955d4" />
+
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
+<img width="602" height="93" alt="image" src="https://github.com/user-attachments/assets/698e10e2-69a6-4e96-b0b1-30b4d11f2b24" />
+
